@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOAR</title>
+    <description>HOAR (Hydrologists of Alpine Regions) is a community of snow and mountain hydrology researchers, professionals, and enthusiasts.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 07 Mar 2017 17:07:48 -0700</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 17:07:48 -0700</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
+    
+      <item>
+        <title>SnowEX - Winter 2017</title>
+        <description>Theo Barnhart celebrates a 2 m snow pit during week 1 of the 2017 NASA SnowEX campaign on Grand Mesa, CO. Many members of HOAR helped with SnowEX fieldwork during the fall of 2016 and winter 2017. - Photo Credit Mary Jo Brodzik</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/fieldwork/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/fieldwork/2014/07/18/project-1/</guid>
+        
+        
+        <category>Fieldwork</category>
+        
+      </item>
+    
+  </channel>
+</rss>

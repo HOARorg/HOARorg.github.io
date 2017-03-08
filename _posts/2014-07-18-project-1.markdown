@@ -2,11 +2,12 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: Brodzik_IMG_3537.JPG 
 alt: image-alt
-project-date: April 2014
-#client: SnowEX
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: February 2014
+client: SnowEX
+title: SnowEX - Winter 2017
+category: Fieldwork
+description: Theo Barnhart celebrates a 2 m snow pit during week 1 of the 2017 NASA SnowEX campaign on Grand Mesa, CO. Many members of HOAR helped with SnowEX fieldwork during the fall of 2016 and winter 2017. - Photo Credit Mary Jo Brodzik
 
 ---
