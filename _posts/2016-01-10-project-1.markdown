@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2016-01-10
+img: skiing_funtivity2016.JPG 
+alt: image-alt
+project-date: January 2016
+client: 
+title: Skiing Funtivity - Winter 2016
+category: Funtivity
+description: Early members of HOAR enjoy an afternoon of backcountry skiing outside of Boulder, CO.
+
+---

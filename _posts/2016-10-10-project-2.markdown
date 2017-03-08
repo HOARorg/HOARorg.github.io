@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2016-10-10
+img: steamboat_2016.jpg 
+alt: image-alt
+project-date: October 2016
+client: 
+title: Steamboat Mountain Fieldwork - Fall 2016
+category: Fieldwork
+description: Kate Hale and Theo Barnhart work on snow depth sensors on the Steamboat ski area mountain during a fall snowstorm. The Molotch lab maintains several snow depth sensor arrays across Colorado and New Mexico. Photo Credit - Keith Jennings
+
+---

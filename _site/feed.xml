@@ -3,21 +3,45 @@
   <channel>
     <title>HOAR</title>
     <description>HOAR (Hydrologists of Alpine Regions) is a community of snow and mountain hydrology researchers, professionals, and enthusiasts.</description>
-    <link>http://localhost:4000/</link>
+    <link>https://HOARorg.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 07 Mar 2017 17:07:48 -0700</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2017 17:07:48 -0700</lastBuildDate>
-    <generator>Jekyll v3.4.1</generator>
+    <pubDate>Tue, 07 Mar 2017 20:29:38 -0700</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 20:29:38 -0700</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>SnowEX - Winter 2017</title>
-        <description>Theo Barnhart celebrates a 2 m snow pit during week 1 of the 2017 NASA SnowEX campaign on Grand Mesa, CO. Many members of HOAR helped with SnowEX fieldwork during the fall of 2016 and winter 2017. - Photo Credit Mary Jo Brodzik</description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/fieldwork/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/fieldwork/2014/07/18/project-1/</guid>
+        <description>Theo Barnhart celebrates a 2 m snow pit during week 1 of the 2017 NASA SnowEX campaign on Grand Mesa, CO. Many members of HOAR helped with SnowEX fieldwork during the fall of 2016 and winter 2017. Photo Credit - Mary Jo Brodzik</description>
+        <pubDate>Sun, 12 Feb 2017 00:00:00 -0700</pubDate>
+        <link>https://HOARorg.github.io/fieldwork/2017/02/12/project-3/</link>
+        <guid isPermaLink="true">https://HOARorg.github.io/fieldwork/2017/02/12/project-3/</guid>
         
         
         <category>Fieldwork</category>
+        
+      </item>
+    
+      <item>
+        <title>Steamboat Mountain Fieldwork - Fall 2016</title>
+        <description>Kate Hale and Theo Barnhart work on snow depth sensors on the Steamboat ski area mountain during a fall snowstorm. The Molotch lab maintains several snow depth sensor arrays across Colorado and New Mexico. Photo Credit - Keith Jennings</description>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 -0600</pubDate>
+        <link>https://HOARorg.github.io/fieldwork/2016/10/10/project-2/</link>
+        <guid isPermaLink="true">https://HOARorg.github.io/fieldwork/2016/10/10/project-2/</guid>
+        
+        
+        <category>Fieldwork</category>
+        
+      </item>
+    
+      <item>
+        <title>Skiing Funtivity - Winter 2016</title>
+        <description>Early members of HOAR enjoy an afternoon of backcountry skiing outside of Boulder, CO.</description>
+        <pubDate>Sun, 10 Jan 2016 00:00:00 -0700</pubDate>
+        <link>https://HOARorg.github.io/funtivity/2016/01/10/project-1/</link>
+        <guid isPermaLink="true">https://HOARorg.github.io/funtivity/2016/01/10/project-1/</guid>
+        
+        
+        <category>Funtivity</category>
         
       </item>
     
