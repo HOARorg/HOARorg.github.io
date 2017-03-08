@@ -2,9 +2,9 @@
 layout: default
 modal-id: 3
 date: 2017-02-12
-img: Brodzik_IMG_3537.JPG 
+img: Brodzik_IMG_3537.jpg 
 alt: image-alt
-project-date: February 2014
+project-date: February 2015
 client: SnowEX
 title: SnowEX - Winter 2017
 category: Fieldwork
